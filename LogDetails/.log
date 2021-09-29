@@ -1,0 +1,8 @@
+2021-09-22/00:00:05.426  INFO: wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (resolved driver for Chrome 93)
+2021-09-22/00:00:05.434  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\swatithakare\.cache\selenium\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-22/00:03:41.164  INFO: wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (resolved driver for Chrome 93)
+2021-09-22/00:03:41.170  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\swatithakare\.cache\selenium\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-22/00:05:32.005  INFO: wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (resolved driver for Chrome 93)
+2021-09-22/00:05:32.014  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\swatithakare\.cache\selenium\chromedriver\win32\93.0.4577.63\chromedriver.exe
+2021-09-22/00:09:03.959  INFO: wdm.WebDriverManager - Using chromedriver 93.0.4577.63 (resolved driver for Chrome 93)
+2021-09-22/00:09:03.978  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\swatithakare\.cache\selenium\chromedriver\win32\93.0.4577.63\chromedriver.exe
